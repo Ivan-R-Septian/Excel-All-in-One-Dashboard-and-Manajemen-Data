@@ -36,22 +36,22 @@ Date ranges for specific time-based insights.
 
 # Usage
 Open the Dashboard Tab:
-Visualize key metrics and trends, including sales and profit data.
+Visualize key metrics and trends, including sales and profit data.  
 Navigate Through Other Tabs:
 Penjualan (Sales):
-Transaction details and input for new sales data.
+Transaction details and input for new sales data.  
 Unit Masuk (Incoming Units):
-Stock entry records and new data input for inventory updates.
+Stock entry records and new data input for inventory updates.  
 Inventory:
-Manage unit stock levels, master product data, and print stock opname reports.
+Manage unit stock levels, master product data, and print stock opname reports.  
 Apply Filters:
 Customize the dashboard views by filtering based on product type, payment methods, or time periods.
 
 # Technology Stack
 Microsoft Excel:
-Used for creating the dashboard and data visualization.
+Used for creating the dashboard and data visualization.  
 Macros:
-Enables interactivity and automation within the file.
+Enables interactivity and automation within the file.  
 Data Sources:
 Aggregated sales and inventory data to power visualizations and insights.
 
@@ -63,10 +63,8 @@ Aggregated sales and inventory data to power visualizations and insights.
 ![image](https://github.com/user-attachments/assets/e22a53ae-ec4f-42f4-86c0-b0ea8dceeafb)
 
 # Contact
-If you’re interested in this project or have any questions, feel free to reach out:
-
-📧 Email: ivanrseptian@gmail.com
-
+If you’re interested in this project or have any questions, feel free to reach out:  
+📧 Email: ivanrseptian@gmail.com  
 Let’s collaborate and share ideas!
 
 
