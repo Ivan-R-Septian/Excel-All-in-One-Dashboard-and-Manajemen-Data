@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/07193dfc-1477-45ef-8600-54f5f7b59c4a)# Excel-All-in-One-Dashboard-and-Manajemen-Data
 # Excel All-in-One Dashboard and Data Management
 This repository contains an interactive Sales and Inventory Dashboard designed to provide actionable insights into sales performance, product inventory, customer behavior, and marketing effectiveness. Built using Microsoft Excel, this dashboard combines powerful data visualization and analysis capabilities with easy-to-use filters, making it an essential tool for business decision-making.
 
@@ -58,6 +57,14 @@ Aggregated sales and inventory data to power visualizations and insights.
 
 # Screenshots
 ![image](https://github.com/user-attachments/assets/467805a1-869d-4a92-99d0-01a38d328f3d)
+![image](https://github.com/user-attachments/assets/57a07151-6b61-4e0e-9241-516bc8718cc0)
+![image](https://github.com/user-attachments/assets/92d3cf57-f1e9-4200-838b-ea1780e3bc9c)
+![image](https://github.com/user-attachments/assets/27038be8-ce73-48db-a120-578c6b64e207)
+![image](https://github.com/user-attachments/assets/e22a53ae-ec4f-42f4-86c0-b0ea8dceeafb)
 
+# Contact
+If you’re interested in this project or have any questions, feel free to reach out:
+📧 Email: ivanrseptian@gmail.com
+Let’s collaborate and share ideas!
 
 
