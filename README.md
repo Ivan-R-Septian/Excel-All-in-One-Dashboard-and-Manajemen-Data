@@ -64,7 +64,9 @@ Aggregated sales and inventory data to power visualizations and insights.
 
 # Contact
 If you’re interested in this project or have any questions, feel free to reach out:
+
 📧 Email: ivanrseptian@gmail.com
+
 Let’s collaborate and share ideas!
 
 
